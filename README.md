@@ -23,12 +23,12 @@ To build an interactive analytics dashboard that helps stakeholders:
 ---
 
 ## Key Features & Visuals
-- 💰 **Executive KPI Cards:** Revenue, Profit, Profit Margin, Average Discount  
-- 📦 **Top Products Analysis:** Identification of highest revenue-generating items  
-- 🍩 **Category Distribution:** Revenue contribution by product category  
-- 🌍 **Geographical Analysis:** Region-wise sales performance using map visuals  
-- 📋 **Detailed Data Matrix:** Transaction-level breakdown by date and product  
-- 🎛 **Interactive Filters:** Client Type, Region, and Date slicers  
+- **Executive KPI Cards:** Revenue, Profit, Profit Margin, Average Discount  
+- **Top Products Analysis:** Identification of highest revenue-generating items  
+- **Category Distribution:** Revenue contribution by product category  
+- **Geographical Analysis:** Region-wise sales performance using map visuals  
+- **Detailed Data Matrix:** Transaction-level breakdown by date and product  
+- **Interactive Filters:** Client Type, Region, and Date slicers  
 
 ---
 
