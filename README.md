@@ -36,12 +36,8 @@ To build an interactive analytics dashboard that helps stakeholders:
 - Monitors are the highest revenue-generating product category  
 - The business maintains a strong **~43% profit margin**, indicating efficient operations  
 - Revenue is fairly balanced across major product categories  
-- Regional performance varies significantly, highlighting growth opportunities  
-
----
-
-## Dashboard Preview
-![Dashboard](Transaction and clients Dsahboard.png)
+- Regional performance varies significantly, highlighting growth opportunities
+  
 ---
 
 ## How to Use This Project
