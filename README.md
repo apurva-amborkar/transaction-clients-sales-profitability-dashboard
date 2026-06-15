@@ -41,8 +41,7 @@ To build an interactive analytics dashboard that helps stakeholders:
 ---
 
 ## Dashboard Preview
-![Dashboard].(Transaction and clients Dashboard.png)
-
+![Dashboard](Transaction and clients Dsahboard.png)
 ---
 
 ## How to Use This Project
