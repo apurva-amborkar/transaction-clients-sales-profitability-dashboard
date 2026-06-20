@@ -39,6 +39,8 @@ To build an interactive analytics dashboard that helps stakeholders:
 - Regional performance varies significantly, highlighting growth opportunities
   
 ---
+## Dashboard Preview
+https://github.com/apurva-amborkar/transaction-clients-sales-profitability-dashboard/commit/00a027bdb825407887e8d8c447d106f4f1b3d968
 
 ## How to Use This Project
 1. Download the `.pbix` file from this repository  
